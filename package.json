@@ -26,14 +26,9 @@
 		"@tailwindcss/line-clamp": "0.4.2",
 		"@tailwindcss/typography": "0.5.7",
 		"astro": "1.6.0",
-<<<<<<< HEAD
 		"astro-compress": "1.1.1",
 		"astro-critters": "1.1.0",
-=======
-		"astro-compress": "1.1.0",
-		"astro-critters": "1.0.5",
->>>>>>> f3cc882f91559e39db7e8b34a313820dcd4aef13
-		"autoprefixer": "10.4.12",
+		"autoprefixer": "10.4.13",
 		"cssnano": "5.1.13",
 		"cssnano-preset-advanced": "5.3.8",
 		"firebase": "9.13.0",
