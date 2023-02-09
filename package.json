@@ -1,14 +1,14 @@
 {
 	"name": "overbrowser",
 	"version": "0.0.1",
-	"description": "📄 Starter template for AstroJS.",
+	"description": "🔍 Overbrowser.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Lightrix/astro-starter-template.git"
+		"url": "https://github.com/lightrix/overbrowser.git"
 	},
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
+	"homepage": "https://github.com/lightrix/overbrowser#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/astro-starter-template/issues"
+		"url": "https://github.com/lightrix/overbrowser/issues"
 	},
 	"license": "MIT",
 	"private": false,

@@ -1,5 +1,5 @@
-# [astro-starter-template] 📄
+# [overbrowser] 🔍
 
-Starter template for AstroJS.
+Overbrowser main website.
 
-[astro-starter-template]: https://npmjs.org/astro-starter-template
+[overbrowser]: https://npmjs.org/overbrowser
