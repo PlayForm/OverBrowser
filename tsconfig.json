@@ -1,26 +1,22 @@
 {
 	"compilerOptions": {
 		"baseUrl": ".",
+		"moduleResolution": "bundler",
 		"paths": {
-			"@components/*": [
-				"src/components/*"
-			],
-			"@layouts/*": [
-				"src/layouts/*"
-			],
-			"@lib/*": [
-				"src/lib/*"
-			],
-			"@pages/*": [
-				"src/pages/*"
-			],
-			"@scripts/*": [
-				"src/scripts/*"
-			]
+			"@assets/*": ["src/assets/*"],
+			"@components/*": ["src/components/*"],
+			"@layouts/*": ["src/layouts/*"],
+			"@lib/*": ["src/lib/*"],
+			"@options/*": ["src/options/*"],
+			"@pages/*": ["src/pages/*"],
+			"@scripts/*": ["src/scripts/*"],
+			"@styles/*": ["src/styles/*"]
 		},
 		"types": [
 			"astro/client",
-			"astro/env"
+			"astro/client-image",
+			"astro/env",
+			"src/env.d.ts"
 		]
 	},
 	"extends": "@lightrix/config/base/ts"
