@@ -1,17 +1,17 @@
 {
 	"name": "overbrowser",
 	"version": "0.0.1",
+	"private": false,
 	"description": "🔍 Overbrowser.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Lightrix/overbrowser.git"
-	},
 	"homepage": "https://github.com/Lightrix/overbrowser#readme",
 	"bugs": {
 		"url": "https://github.com/Lightrix/overbrowser/issues"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Lightrix/overbrowser.git"
+	},
 	"license": "MIT",
-	"private": false,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
