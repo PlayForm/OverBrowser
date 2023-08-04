@@ -2,17 +2,8 @@
 	"name": "overbrowser",
 	"version": "0.0.1",
 	"private": false,
-<<<<<<< HEAD
 	"description": "🔍 Overbrowser.",
 	"homepage": "https://github.com/Lightrix/overbrowser#readme",
-=======
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter"
-	],
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
->>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/Lightrix/overbrowser/issues"
 	},
