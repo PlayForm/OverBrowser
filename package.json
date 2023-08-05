@@ -12,7 +12,6 @@
 		"url": "git+https://github.com/Lightrix/overbrowser.git"
 	},
 	"license": "MIT",
-	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
