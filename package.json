@@ -1,7 +1,7 @@
 {
 	"name": "overbrowser",
 	"version": "0.0.1",
-	"private": false,
+	"private": "false",
 	"description": "🔍 Overbrowser.",
 	"homepage": "https://github.com/Lightrix/overbrowser#readme",
 	"bugs": {
@@ -12,6 +12,12 @@
 		"url": "git+https://github.com/Lightrix/overbrowser.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"scripts": {
 		"prepublishOnly": "astro check && astro build",
 		"start": "astro dev"
