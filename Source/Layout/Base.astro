@@ -1,8 +1,13 @@
 ---
 import "@Style/Base.css";
 
-const { title = "Overbrowser", description = "Widget to display messages." } =
+const { Title = "Overbrowser", Description = "Widget to display messages." } =
 	Astro.props;
+
+interface Props {
+	Title: string;
+	Description: string;
+}
 ---
 
 <!DOCTYPE html>
@@ -14,9 +19,9 @@ const { title = "Overbrowser", description = "Widget to display messages." } =
 		</script>
 
 		<!-- Meta -->
-		<title>{title}</title>
+		<title>{Title}</title>
 		<meta charset="utf-8" />
-		<meta name="description" content={description} />
+		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<meta name="theme-color" content="#ebebeb" />
 		<meta name="format-detection" content="telephone=no" />
