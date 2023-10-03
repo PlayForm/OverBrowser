@@ -3,13 +3,13 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "🔍 Overbrowser.",
-	"homepage": "https://github.com/Lightrix/overbrowser#readme",
+	"homepage": "https://github.com/Playform/Overbrowser#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/overbrowser/issues"
+		"url": "https://github.com/Playform/Overbrowser/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Lightrix/overbrowser.git"
+		"url": "git+https://github.com/Playform/Overbrowser.git"
 	},
 	"license": "MIT",
 	"author": {
