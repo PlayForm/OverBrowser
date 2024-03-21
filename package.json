@@ -28,11 +28,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.7",
 		"@tailwindcss/typography": "0.5.10",
-<<<<<<< HEAD
-		"astro": "4.5.6",
-=======
 		"astro": "4.5.8",
->>>>>>> abe090ebbec1797e45d92d12bee1836c9f16384e
 		"astro-biome": "0.0.8",
 		"astro-capo": "0.0.1",
 		"astro-compress": "2.2.15",
@@ -50,11 +46,7 @@
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.4.1",
-<<<<<<< HEAD
-		"typescript": "5.4.2",
-=======
 		"typescript": "5.4.3",
->>>>>>> abe090ebbec1797e45d92d12bee1836c9f16384e
 		"typescript-esbuild": "0.4.4",
 		"zod": "3.22.4"
 	},
