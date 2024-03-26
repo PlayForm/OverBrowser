@@ -2,4 +2,4 @@
 
 Overbrowser main website.
 
-[overbrowser]: HTTPS://NPMJS.Org/overbrowser
+[overbrowser]: https://NPMJS.Org/overbrowser
