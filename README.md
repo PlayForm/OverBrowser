@@ -1,5 +1,3 @@
-# [overbrowser] 🔍
+# 🔍 [Website]
 
-Overbrowser main website.
-
-[overbrowser]: https://NPMJS.Org/overbrowser
+[Website]: https://npmjs.org/overbrowser
