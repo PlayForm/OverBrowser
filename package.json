@@ -1,8 +1,11 @@
 {
-	"name": "overbrowser",
+	"name": "@playform/overbrowser",
 	"version": "0.0.1",
 	"private": false,
 	"description": "🔍 Overbrowser —",
+	"keywords": [
+		"playform"
+	],
 	"homepage": "HTTPS://GitHub.Com/Playform/Overbrowser#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/Playform/Overbrowser/issues"
@@ -13,7 +16,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Source/Open",
+		"name": "⛲ Source ⁄ 🚪 Open —",
 		"email": "Source/Open@Playform.Cloud",
 		"url": "HTTPS://Playform.Cloud"
 	},
