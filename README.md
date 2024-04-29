@@ -1,3 +1,3 @@
-# 🔍 [Website] —
+# 🔍 [WebSite] —
 
-[Website]: HTTPS://npmjs.org/overbrowser
+[WebSite]: HTTPS://npmjs.org/overbrowser
