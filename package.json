@@ -1,13 +1,8 @@
 {
 	"name": "@playform/overbrowser",
 	"version": "0.0.1",
-<<<<<<< HEAD
-	"private": false,
-	"description": "🔍 Overbrowser —",
-=======
 	"private": true,
-	"description": "📄 Starter —",
->>>>>>> Fork/Current
+	"description": "🔍 Overbrowser —",
 	"keywords": [
 		"playform"
 	],
