@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "@playform/overbrowser",
 	"version": "0.0.1",
 	"private": false,
@@ -13,6 +14,25 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/PlayForm/Overbrowser.git"
+=======
+	"name": "@playform/starter",
+	"version": "0.0.1",
+	"private": false,
+	"description": "📄 Starter —",
+	"keywords": [
+		"astro",
+		"starter",
+		"skeleton",
+		"playform"
+	],
+	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/PlayForm/Starter/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PlayForm/Starter.git"
+>>>>>>> Fork/Current
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
@@ -47,6 +67,10 @@
 		"postcss-import": "16.1.0",
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
+<<<<<<< HEAD
+=======
+		"solid-js": "1.8.18",
+>>>>>>> Fork/Current
 		"tailwindcss": "*",
 		"typescript": "*",
 		"zod": "*"
