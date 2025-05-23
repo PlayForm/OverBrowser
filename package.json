@@ -6,9 +6,9 @@
 	"keywords": [
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Overbrowser#readme",
+	"homepage": "https://GitHub.Com/PlayForm/Overbrowser#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/Overbrowser/issues"
+		"url": "https://GitHub.Com/PlayForm/Overbrowser/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -18,7 +18,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",
