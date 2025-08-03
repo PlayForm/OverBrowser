@@ -25,7 +25,7 @@
 		"prepublishOnly": "astro build"
 	},
 	"dependencies": {
-		"@astrojs/sitemap": "3.4.1",
+		"@astrojs/sitemap": "3.4.2",
 		"@playform/build": "0.2.5",
 		"@playform/compress": "0.2.0",
 		"@playform/format": "0.0.8",
@@ -33,7 +33,11 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.10",
 		"@tailwindcss/typography": "0.5.16",
+<<<<<<< HEAD
 		"astro": "5.12.3",
+=======
+		"astro": "5.12.8",
+>>>>>>> 5d8ad705cf853f89526602cdc4cd50663fdfc9af
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.21",
@@ -48,8 +52,13 @@
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.4.17",
+<<<<<<< HEAD
 		"typescript": "5.8.3",
 		"zod": "4.0.10"
+=======
+		"typescript": "5.9.2",
+		"zod": "4.0.14"
+>>>>>>> 5d8ad705cf853f89526602cdc4cd50663fdfc9af
 	},
 	"devDependencies": {
 		"@astrojs/ts-plugin": "1.10.4"
